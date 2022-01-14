@@ -11,7 +11,7 @@
 
 
 ## Demo
-Link: [https://carpricepredictionn.herokuapp.com/](https://carpricepredictionn.herokuapp.com)
+Link: [https://iplscorepredictionn.herokuapp.com/ ](https://iplscorepredictionn.herokuapp.com/)
 
 ## Overview
 The IPL Score Predictor project is about predicting score of batting team.This web application have IPL 2021 teams where you can predict score of batting team.
